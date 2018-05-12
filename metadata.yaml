@@ -21,6 +21,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43673#Poeta-de-Tristibus--Or-the-Poet-s-Complaint
 gutenberg_issued: '2013-09-08'
 gutenberg_type: Text
 identifiers:
